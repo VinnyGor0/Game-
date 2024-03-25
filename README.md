@@ -11,16 +11,7 @@ Concentration Game
 
 # Wireframe
 
-  -------------------------
-  |      Game Board       |
-
-
-  |    [Card Grid Here]   |
-  -------------------------
-
-  |     Score & Timer     |
-
-  -------------------------
+  /Users/vinny/Desktop/Screenshot 2024-03-25 at 8.40.40 pm.png
 
 
 # User Stories
