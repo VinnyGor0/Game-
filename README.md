@@ -11,12 +11,12 @@ Concentration Game
 
 # Wireframe
 
--------------------------
-|      Game Board       |
-|    [Card Grid Here]   |
--------------------------
-|     Score & Timer     |
--------------------------
+  -------------------------
+  |      Game Board       |
+  |    [Card Grid Here]   |
+  -------------------------
+  |     Score & Timer     |
+  -------------------------
 
 
 # User Stories
@@ -28,5 +28,5 @@ Concentration Game
 - As a player, I want the matching cards to remain face up.
 - As a player, I want the non-matching cards to flip back face down.
 - As a player, I want to see my current score and time while playing.
-- As a player, I want to know when I have won the game.
+- As a player, I want to know when I have wgir on the game.
 - As a player, I want to be able to restart the game at any time.
