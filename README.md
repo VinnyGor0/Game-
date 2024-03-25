@@ -13,9 +13,13 @@ Concentration Game
 
   -------------------------
   |      Game Board       |
+
+
   |    [Card Grid Here]   |
   -------------------------
+
   |     Score & Timer     |
+
   -------------------------
 
 
