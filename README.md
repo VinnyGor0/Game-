@@ -10,15 +10,12 @@ Concentration Game
 - The objective is to find all matching pairs of cards in the fewest moves possible
 
 # Wireframe
-
-   ........................
-  |      Game Board       |
-  |    [Card Grid Here]   |
-  ........................
-  |     Score & Timer     |
-  .........................
-
-
+- -------------------------
+- |      Game Board       |
+- |    [Card Grid Here]   |
+- -------------------------
+- |     Score & Timer     |
+- -------------------------
 
 # User Stories
 
